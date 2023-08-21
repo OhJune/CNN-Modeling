@@ -11,4 +11,4 @@
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">  <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
-**학습된 모델을 django에 다운로드 후 파이썬을 통해서 설정한 locall주소에서 모델결과값을 확인한다.**
+**학습된 모델을 django에 다운로드 후 파이썬을 통해서 설정한 local주소에서 모델결과값을 확인한다.**
